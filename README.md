@@ -6,7 +6,7 @@ Création d'ombres d'un texte qui suivent les mouvements de la souris.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/mousemove_typography/
 
 ## Projet développé avec
 
